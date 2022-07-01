@@ -19,7 +19,7 @@ pip install csv
 import pandas, NumPy, Matplotlib,csv
 ```
 
-## this project cover:
+## this project covers:
 1. Manipulate data using #numpy
 2. load and process data using pandas and skills of Investigate a Dataset
 3. the data wrangling process of gathering, assessing, and cleaning data.
